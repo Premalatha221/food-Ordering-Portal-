@@ -1,0 +1,148 @@
+/* header a img{
+    width: 134px;
+  margin-top: 24px;
+  }
+  .login-page {
+    width: 380px;
+    padding: 8% 0 0;
+    margin: auto;
+  } 
+  
+  .login-page .form .login{
+    margin-top: -31px;
+  margin-bottom: 26px;
+  }
+  .form {
+    position: relative;
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.136);
+    max-width: 360px;
+    margin: 0 auto 70px;
+    padding: 45px;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  }
+  .form input {
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+  }
+  .form Button {
+     font-family: "Roboto", sans-serif;
+     
+    text-transform: uppercase;
+    outline: 0;
+    background-color: #328f8a;
+    background-image: linear-gradient(45deg,#328f8a,#08ac4b);
+    width: 100%;
+    border: 0;
+    padding: 10px;
+    color: #FFFFFF;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+  }
+  .form .message {
+    margin: 15px 0 0;
+    color: #290808;
+    font-size: 12px;
+  }
+  .form .message a {
+    color: #4CAF50;
+    text-decoration: none;
+  }
+  
+  .container {
+    position: relative;
+    z-index: 1;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+ .login-page {
+    
+    background-image:url("./foods.jpg") ;
+    background-size: cover;
+    width:100%;
+    height: 750px;
+    font-family: "Roboto", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    
+  }  */
+  .input-field-items {
+    width: 35%;
+}
+
+.input-field-item {
+    margin-bottom: 25px;
+}
+
+.btn-text {
+    background-color: #1e6fff;
+    border: unset;
+    padding: 10px 30px;
+    color: #fff;
+    margin-top: 20px;
+    width: 100%;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.container-header {
+    margin-bottom: 35px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.create-account {
+    margin-top: 25px;
+}
+
+.account-link {
+    color: #1e6fff;
+    margin-left: 6px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.account-link:hover {
+    text-decoration: underline;
+}
+
+.login-left-portion {
+    width: 50%;
+}
+
+.login-page-container {
+    display: flex;
+    height: 640px;
+}
+
+
+.login-left-portion {
+    background-image: url("https://media.istockphoto.com/id/545286388/photo/chinese-food-blank-background.jpg?s=612x612&w=0&k=20&c=pqOIy07YKO5PlU5VxjscwTGRrrZ8PluKMUjSOz-II60=");
+    width: 50%;
+    height: 70%;
+    height: inherit;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.login-right-portion {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+

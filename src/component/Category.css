@@ -1,0 +1,14 @@
+
+  /* YourStyles.css */
+.card-container {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  justify-content: center; /* Center-align the cards horizontally */
+  align-items: center; /* Center-align the cards vertically */
+}
+
+.card {
+  flex: 0 0 auto;
+  margin-right: 20px;
+}
